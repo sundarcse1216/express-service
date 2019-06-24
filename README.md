@@ -1,5 +1,5 @@
-# Intellect
-Intellect APIs
+# Rest API
+API Example
 
 # API Specification
 
